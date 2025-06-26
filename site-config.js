@@ -5,6 +5,7 @@ export default {
   aboutImage: "img/about.png", // Immagine di copertina per la sezione Chi siamo
   aboutQuote: "La qualità nasce dal rispetto per la terra.", // Frase evidenziata
   aboutCEO: "Tommaso Rosa - Titolare", // Nome del CEO/titolare (opzionale)
+  customPageLabel: "Iniziativa Finanziata dal FEASR",
   socials: [
     // { icon: "facebook", url: "https://facebook.com/lasalinella" },
     // { icon: "instagram", url: "https://instagram.com/lasalinella" },
